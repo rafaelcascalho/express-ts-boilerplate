@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# Build folder
+dist
+
+# Env files
+.env*
+!.env.example
+
+# Coverage files
+coverage
+
+# Logs folder
+logs
+
+# Notes file
+notes

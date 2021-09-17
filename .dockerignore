@@ -1,0 +1,25 @@
+# editorconfig
+.editorconfig
+
+# coverage files
+coverage
+
+# local dependencies
+node_modules
+
+# Logs folder
+logs
+
+# Files in general
+.env*
+.gitignore
+.github
+prettierrc
+jest.config.js
+README.md
+tsconfig.js
+notes
+
+# Docker files
+Dockerfile
+docker-compose.yml
